@@ -28,39 +28,7 @@ git clone https://github.com/sainivishal47/CodeAlpha_SecureCodingReview.git
 cd CodeAlpha_SecureCodingReview
 ```
 
-### Step 2 - Create Virtual Environment
-
-#### Linux / Kali / macOS
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-#### Windows
-
-```cmd
-python -m venv venv
-venv\Scripts\activate
-```
-
-### Step 3 - Install Dependencies
-
-#### Linux / Kali / macOS
-
-```bash
-python3 -m pip install -r requirements.txt
-```
-
-#### Windows
-
-```cmd
-python -m pip install -r requirements.txt
-```
-
-The `requirements.txt` file installs the required Python packages automatically.
-
-### Step 4 - Run the Application
+### Step 2 - Run the Application
 
 #### Linux / Kali / macOS
 
@@ -74,7 +42,7 @@ python3 app.py
 python app.py
 ```
 
-### Step 5 - Open in Browser
+### Step 3 - Open in Browser
 
 After starting the application, open:
 
